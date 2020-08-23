@@ -1,10 +1,10 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+title: Flavors of Data
+description: My Personal Blog
+author: Yogesh Tak
+github: https://github.com/yogeshtak
+about: I'm Programmer, Data Scientist, and storyteller. I work with data to find interesting insights.
 disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+google_analytics: UA-176087231-1
 
 enableTags: true
 tagarray: []
@@ -16,15 +16,15 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/meyogeshtak"
     - icon: fa-twitter
       link: "#"
     - icon: fa-linkedin
-      link: "#"
+      link: "https://www.linkedin.com/in/yogeshtak/"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/yogeshtak"
 
 share:
   twitter_username: github.io
@@ -38,7 +38,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://yogeshtak.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
