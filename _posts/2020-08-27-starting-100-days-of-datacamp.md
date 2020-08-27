@@ -37,3 +37,4 @@ plt.title(title)
 # After customizing, display the plot
 plt.show()
 ```
+<img src="https://github.com/yogeshtak/yogeshtak.github.io/blob/master/static/img/_posts/Scatterplot.png" alt="scatterplot" style="height:auto; max-width:60%; border:none; display:block;"/>
